@@ -1,6 +1,4 @@
-Here’s an **attractive, professional GitHub README** for your **Amazon Global Sales Dashboard** project. You can copy and paste this directly into your `README.md` file.
 
----
 
 # 🛒 Amazon Global Sales Dashboard
 
